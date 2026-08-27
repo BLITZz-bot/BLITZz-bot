@@ -33,7 +33,6 @@ class Developer extends Creator {
     cloud:     ["Docker", "Render", "Vercel"],
     design:    ["UI/UX", "Canva", "Photoshop"]
   };
-
   build() {
     location : Whitefield, Bengaluru, 560048 
     return "Building scalable software 🚀";
