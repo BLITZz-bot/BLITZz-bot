@@ -34,7 +34,7 @@ class Developer extends Creator {
     design:    ["UI/UX", "Canva", "Photoshop"]
   };
   build() {
-    location : Whitefield, Bengaluru, 560048 
+   
     return "Building scalable software 🚀";
   }
 }
