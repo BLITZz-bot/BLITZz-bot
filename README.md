@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EB0028,50:500010,100:0D1117&height=190&section=header&text=M%20M%20Bharath&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Enterprise%20AI%20Intern%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Graphic%20Designer&descFontSize=16&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=180&section=header&text=M%20M%20Bharath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Enterprise%20AI%20Intern%20%7C%20UI%20%26%20UX%20Designer%20%7C%20Graphic%20Designer&descFontSize=15&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 💫 About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" alt="Coding GIF" width="370" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 - 💻 **Software Developer** — passionate about architecting and engineering scalable, high-performance web platforms using **Next.js**, **React**, **TypeScript**, **Python**, and modern cloud infrastructure.
 - 🤖 **Enterprise AI Intern** at **USEReady** — building enterprise AI agents, LLM orchestration pipelines, and applied GenAI solutions.
@@ -45,21 +45,16 @@
 
 ---
 
-### 📊 GitHub Analytics & Live Activity
-
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&text_color=FFFFFF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BLITZz-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028" width="45%" />
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats-sigma.vercel.app?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=EB0028&fire=EB0028&currStreakLabel=EB0028&sideLabels=FFFFFF&dates=FFFFFF" width="94%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=EB0028&fire=EB0028&currStreakLabel=EB0028" width="94%" />
 </div>
-
 ---
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EB0028,50:500010,100:0D1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%"/>
 </div>
