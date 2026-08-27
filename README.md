@@ -19,7 +19,7 @@
 
 ### ⚡ Developer Console
 
-<img align="right" alt="Developer Animation" width="430" style="margin-top: 5px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" alt="Cyber Hologram" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```javascript
 const developer = {
