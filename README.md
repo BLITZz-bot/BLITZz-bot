@@ -33,6 +33,7 @@ class Developer extends Creator {
     cloud:     ["Docker", "Render", "Vercel"],
     design:    ["UI/UX", "Canva", "Photoshop"]
   };
+
   build() {
     return "Building scalable software 🚀";
   }
