@@ -45,15 +45,21 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Live Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&text_color=FFFFFF" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=EB0028&fire=EB0028&currStreakLabel=EB0028" width="94%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITZz-bot&bg_color=0D1117&color=EB0028&line=EB0028&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%"/>
 </div>
