@@ -19,27 +19,25 @@
 
 ### ⚡ Developer Console
 
-<img align="right" alt="Cyber Hologram" width="460" height="340" style="object-fit: cover; border-radius: 8px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Cyber Hologram" width="460" height="370" style="object-fit: cover; border-radius: 8px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```javascript
-const developer = {
-  name: "M M Bharath",
-  domains: [
-    "Software Development",
-    "Enterprise AI & LLMs",
-    "UI/UX & Graphic Design"
-  ],
-  internship: "AI Intern @ USEReady",
-  focus: ["AI Agents", "GenAI"],
-  coreStack: {
-    frontend: ["Next.js", "React", "TS"],
-    backend: ["Node.js", "Python", "SQL"],
-    design: ["Canva", "Photoshop"],
-    cloud: ["Docker", "Vercel", "Git"]
-  },
-  location: "Bengaluru, India",
-  status: "Building next-gen web apps 🚀"
-};
+```typescript
+class SoftwareDeveloper extends Creator {
+  name = "M M Bharath";
+  role = "Enterprise AI Intern @ USEReady";
+  
+  stack = {
+    languages:   ["TypeScript", "Python", "JavaScript", "SQL", "HTML/CSS"],
+    frameworks:  ["Next.js", "React", "Django", "Node.js", "TailwindCSS"],
+    ai_domains:  ["AI Agents", "LLM Workflows", "Applied GenAI", "RAG"],
+    deployment:  ["Vercel", "Render", "Docker", "Supabase", "Git"],
+    creative:    ["UI/UX Design", "Canva", "Photoshop", "Branding"]
+  };
+
+  build() {
+    return "Transforming ideas into scalable, high-impact software 🚀";
+  }
+}
 ```
 
 <br clear="both"/>
@@ -49,13 +47,15 @@ const developer = {
 ### 🛠️ Tech Stack & Creative Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,supabase,postgres,docker,git,github,vercel,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,python,django,supabase,postgres,docker,git,github,vercel,ps,ai" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
