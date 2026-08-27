@@ -1,12 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=800&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9E%A4+HELLO%2C+WORLD!+I'M+M+M+BHARATH;%E2%9E%A4+SOFTWARE+DEVELOPER+%26+ARCHITECT;%E2%9E%A4+ENTERPRISE+AI+INTERN+%40+USEREADY;%E2%9E%A4+UI%2FUX+%26+GRAPHIC+DESIGNER" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:06B6D4,100:0F172A&height=180&section=header&text=M%20M%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Enterprise%20AI%20Intern%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Graphic%20Designer&descFontSize=14&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bharath-m-m-a9960b309" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://bharatha01.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=vercel&logoColor=black" /></a>
-  <a href="https://github.com/BLITZz-bot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:bharatha9483@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9E%A4+Software+Developer+%26+Full+Stack+Architect;%E2%9E%A4+Enterprise+AI+Intern+%40+USEReady;%E2%9E%A4+UI%2FUX+Designer+%26+Product+Crafter;%E2%9E%A4+Graphic+Designer+%26+Visual+Artist;%E2%9E%A4+Building+Intelligent+Modern+Web+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bharath-m-m-a9960b309" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://bharatha01.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/BLITZz-bot" target="_blank"><img src="https://img.shields.io/badge/GitHub-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:bharatha9483@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -39,14 +45,6 @@ const developer = {
 
 ---
 
-### 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BLITZz-bot&theme=tokyonight&no-bg=true&no-frame=true&margin_w=8&margin_h=8" width="95%"/>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Creative Toolkit
 
 <p align="center">
@@ -74,4 +72,10 @@ const developer = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats-sigma.vercel.app?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=E2E8F0&dates=94A3B8" width="94%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:06B6D4,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
