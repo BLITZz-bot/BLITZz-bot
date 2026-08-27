@@ -23,6 +23,7 @@
 
 ```typescript
 class Developer extends Creator {
+
   name = "M M Bharath";
   role = "AI Intern @ USEReady";
   
