@@ -19,6 +19,10 @@
 
 ### ⚡ Developer Console
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+
 ```javascript
 const developer = {
   name: "M M Bharath",
@@ -42,6 +46,13 @@ const developer = {
   status: "Building next-gen intelligent web experiences 🚀"
 };
 ```
+
+   </td>
+   <td width="42%" align="center" valign="middle">
+     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
+   </td>
+  </tr>
+</table>
 
 ---
 
