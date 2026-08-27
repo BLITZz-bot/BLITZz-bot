@@ -48,18 +48,12 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLITZz-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028&icon_color=EB0028" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EB0028" width="45%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=EB0028&fire=EB0028&currStreakLabel=EB0028" width="94%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=100&section=footer" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=BLITZz-bot&theme=tokyonight&hide_border=true&background=0D1117&ring=EB0028&fire=EB0028&currStreakLabel=EB0028" width="94%" />
 </div>
