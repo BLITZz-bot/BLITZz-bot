@@ -19,23 +19,23 @@
 
 ### ⚡ Developer Console
 
-<img align="right" alt="Cyber Hologram" width="460" height="370" style="object-fit: cover; border-radius: 8px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Cyber Hologram" width="460" height="350" style="object-fit: cover; border-radius: 8px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ```typescript
-class SoftwareDeveloper extends Creator {
+class Developer extends Creator {
   name = "M M Bharath";
-  role = "Enterprise AI Intern @ USEReady";
+  role = "AI Intern @ USEReady";
   
   stack = {
-    languages:   ["TypeScript", "Python", "JavaScript", "SQL", "HTML/CSS"],
-    frameworks:  ["Next.js", "React", "Django", "Node.js", "TailwindCSS"],
-    ai_domains:  ["AI Agents", "LLM Workflows", "Applied GenAI", "RAG"],
-    deployment:  ["Vercel", "Render", "Docker", "Supabase", "Git"],
-    creative:    ["UI/UX Design", "Canva", "Photoshop", "Branding"]
+    web:       ["Next.js", "React", "Django"],
+    languages: ["TS", "Python", "JS", "SQL"],
+    ai:        ["AI Agents", "LLMs", "GenAI"],
+    cloud:     ["Docker", "Render", "Vercel"],
+    design:    ["UI/UX", "Canva", "Photoshop"]
   };
 
   build() {
-    return "Transforming ideas into scalable, high-impact software 🚀";
+    return "Building scalable software 🚀";
   }
 }
 ```
