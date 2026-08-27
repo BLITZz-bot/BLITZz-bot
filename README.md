@@ -65,7 +65,7 @@ const developer = {
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F2FE&icon_color=00F2FE&text_color=E2E8F0" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BLITZz-bot&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F2FE&icon_color=00F2FE&text_color=E2E8F0" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BLITZz-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F2FE&text_color=E2E8F0" width="45%" />
 </div>
 
