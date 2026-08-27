@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:06B6D4,100:0F172A&height=180&section=header&text=M%20M%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Enterprise%20AI%20Intern%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Graphic%20Designer&descFontSize=14&descAlignY=62&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:06B6D4,100:0F172A&height=180&section=header&text=M%20M%20Bharath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20AI%20Developer&descFontSize=15&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9E%A4+Software+Developer+%26+Full+Stack+Architect;%E2%9E%A4+Enterprise+AI+Intern+%40+USEReady;%E2%9E%A4+UI%2FUX+Designer+%26+Product+Crafter;%E2%9E%A4+Graphic+Designer+%26+Visual+Artist;%E2%9E%A4+Building+Intelligent+Modern+Web+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=%E2%9E%A4+Full-Stack+Software+Engineer;%E2%9E%A4+Enterprise+AI+Intern+%40+USEReady;%E2%9E%A4+Applied+AI+%26+LLM+Systems+Builder;%E2%9E%A4+UI%2FUX+Designer+%26+Product+Crafter;%E2%9E%A4+Building+Intelligent+Scalable+Web+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ class Developer extends Creator {
   };
 
   build() {
-    location : Whitefield, Bengaluru, 560048
+    location : "Whitefield, Bengaluru, 560048";
     return "Building scalable software 🚀";
   }
 }
