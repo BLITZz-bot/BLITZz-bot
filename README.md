@@ -34,7 +34,6 @@ class Developer extends Creator {
     design:    ["UI/UX", "Canva", "Photoshop"]
   };
   build() {
-   
     return "Building scalable software 🚀";
   }
 }
