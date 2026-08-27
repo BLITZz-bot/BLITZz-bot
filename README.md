@@ -19,29 +19,26 @@
 
 ### ⚡ Developer Console
 
-<img align="right" alt="Cyber Hologram" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Developer Animation" width="460" height="340" style="object-fit: cover; border-radius: 8px;" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ```javascript
 const developer = {
   name: "M M Bharath",
   domains: [
     "Software Development",
-    "Enterprise AI & LLM Systems",
-    "UI & UX Design",
-    "Graphic Design"
+    "Enterprise AI & LLMs",
+    "UI/UX & Graphic Design"
   ],
-  experience: {
-    internship: "Enterprise AI Intern @ USEReady",
-    focus: ["AI Agents", "LLM Workflows", "Applied GenAI"]
-  },
+  internship: "AI Intern @ USEReady",
+  focus: ["AI Agents", "GenAI"],
   coreStack: {
-    frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-    backend: ["Node.js", "Python", "Supabase", "PostgreSQL"],
-    design: ["Canva", "Photoshop", "Illustrator"],
-    cloud: ["Docker", "Vercel", "Git", "GitHub"]
+    frontend: ["Next.js", "React", "TS"],
+    backend: ["Node.js", "Python", "SQL"],
+    design: ["Canva", "Photoshop"],
+    cloud: ["Docker", "Vercel", "Git"]
   },
-  location: "Bengaluru, Karnataka, India",
-  status: "Building next-gen intelligent web experiences 🚀"
+  location: "Bengaluru, India",
+  status: "Building next-gen web apps 🚀"
 };
 ```
 
