@@ -25,7 +25,7 @@
 class Developer extends Creator {
 
   name = "M M Bharath";
-  role = "Full Stack Developer;
+  role = "Full Stack Developer";
   
   stack = {
     web:       ["Next.js", "React", "Django"],
